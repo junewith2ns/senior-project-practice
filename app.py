@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: June")
+print("Major: Computer Science")
+print("Technology Interest: Machine Learning")
+print("Skill Goal: Work in a Team with Git")
